@@ -1,0 +1,23 @@
+{
+
+  "item.aterriblecalamity.witheredstick": "Withered Stick",
+  "item.aterriblecalamity.witheredbone": "Withered Bone",
+
+  "item.aterriblecalamity.wither_essence": "Wither Essence",
+  "item.aterriblecalamity.withered_nether_star": "Withered Nether Star",
+  "item.aterriblecalamity.amulet": "Amulet",
+
+  "block.aterriblecalamity.wither_dirt": "Withered Dirt",
+  "block.aterriblecalamity.withered_gravel": "Withered Gravel",
+  "block.aterriblecalamity.wither_flesh": "Wither Flesh",
+  "block.aterriblecalamity.wither_tumor": "Wither Tumor",
+  "block.aterriblecalamity.withered_stone": "Withered Stone",
+
+  "block.aterriblecalamity.withered_oak_planks": "Withered Oak Planks",
+  "block.aterriblecalamity.withered_acacia_planks": "Withered Acacia Planks",
+
+  "block.aterriblecalamity.redstone_heart": "Redstone Heart",
+
+  "creative.atc_tab": "A Terrible Calamity"
+
+}

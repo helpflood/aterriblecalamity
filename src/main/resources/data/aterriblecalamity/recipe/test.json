@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "aterriblecalamity:wither_dirt"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "aterriblecalamity:wither_dirt"
+  }
+
+}
