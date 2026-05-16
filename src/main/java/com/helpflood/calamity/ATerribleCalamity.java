@@ -103,6 +103,10 @@ public class ATerribleCalamity {
             event.accept(ModBlocks.REDSTONE_HEART);
         }
 
+        if (event.getTabKey() == CreativeModeTabs.OP_BLOCKS) {
+            event.accept(ModBlocks.CORRUPTED_COMMAND_BLOCK);
+        }
+
     }
 
     @SubscribeEvent

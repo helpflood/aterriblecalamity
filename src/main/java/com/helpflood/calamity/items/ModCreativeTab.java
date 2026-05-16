@@ -24,6 +24,7 @@ public class ModCreativeTab {
                         output.accept(ModItems.AMULET);
                         output.accept(ModItems.WITHERED_NETHER_STAR);
                         output.accept(ModBlocks.REDSTONE_HEART);
+                        output.accept(ModBlocks.CORRUPTED_COMMAND_BLOCK);
                         output.accept(ModBlocks.WITHER_FLESH);
                         output.accept(ModBlocks.WITHER_TUMOR);
                         output.accept(ModBlocks.WITHER_DIRT);

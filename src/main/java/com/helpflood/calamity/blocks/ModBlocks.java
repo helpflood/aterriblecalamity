@@ -56,6 +56,10 @@ public class ModBlocks {
             () -> new Block(BlockBehaviour.Properties.of()
                     .strength(4f).sound(SoundType.METAL)));
 
+    public static final DeferredBlock<Block> CORRUPTED_COMMAND_BLOCK = registerBlock("corrupted_command_block",
+            () -> new Block(BlockBehaviour.Properties.of()
+                    .strength(10f).sound(SoundType.METAL)));
+
     //block registry end
 
 
